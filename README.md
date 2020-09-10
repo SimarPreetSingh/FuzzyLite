@@ -10,3 +10,6 @@
 
 #### Description
 using external library (here fuzzylite 6.0) in ns-3 aka network simulator (nsnam.org)
+
+Check the Youtube Video for Practical Demonstration:
+https://youtu.be/ml-_qwJlGcs
